@@ -1,15 +1,3 @@
-
-> Open this page at [https://onepointfive-real.github.io/pxt-auto-clicker/](https://onepointfive-real.github.io/pxt-auto-clicker/)
-
-## Use as Extension
-
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/onepointfive-real/pxt-auto-clicker** and import
-
 ## Edit this project
 
 To edit this repository in MakeCode.
